@@ -1,2 +1,2 @@
-# calculator
-a simple calculator in java 
+# hotel management OOP
+
